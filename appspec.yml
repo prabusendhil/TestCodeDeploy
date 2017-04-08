@@ -3,6 +3,5 @@ os: windows
 files:
   - source: \hris-home.html
     destination: C:\Simplico
-  - source: \Client
-    destination: C:\Simplico
+
 

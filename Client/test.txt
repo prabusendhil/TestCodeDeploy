@@ -1,8 +1,0 @@
-version: 0.0
-os: windows
-files:
-  - source: \hris-home.html
-    destination: C:\Simplico
-  - source: \Client
-    destination: C:\Simplico
-
