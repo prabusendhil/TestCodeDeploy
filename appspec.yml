@@ -3,6 +3,10 @@ os: windows
 files:
   - source: \Client\
     destination: C:\Simplico\Client
-
+hooks:
+  BeforeInstall:
+    - location: Simplico.bat
+      timeout: 300
+      runas: root
 
 
