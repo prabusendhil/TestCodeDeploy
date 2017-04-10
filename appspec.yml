@@ -5,5 +5,7 @@ files:
     destination: C:\Simplico
   - source: \Test.html
     destination: C:\Simplico
+  - source: .\Client
+    destination: C:\Simplico
 
 
