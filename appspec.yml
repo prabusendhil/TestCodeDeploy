@@ -5,7 +5,7 @@ files:
     destination: C:\Simplico\Client
 hooks:
   BeforeInstall:
-    - location: Simplico.bat
+    - location: \Simplico.bat
       timeout: 300
       runas: root
 
