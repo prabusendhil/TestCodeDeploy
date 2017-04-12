@@ -1,2 +1,1 @@
-ROBOCOPY C:\Simplico\Client C:\Simplico\Safe\Client /mir
-exit /B
+ROBOCOPY C:\Simplico\Client C:\Simplico\Safe\Client 
