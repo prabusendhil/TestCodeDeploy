@@ -7,6 +7,6 @@ hooks:
   BeforeInstall:
     - location: \Simplico.bat
       timeout: 300
-      runas: root
+      runas: Administrator
 
 
