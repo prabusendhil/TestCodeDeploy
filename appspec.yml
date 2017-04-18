@@ -9,7 +9,7 @@ hooks:
       timeout: 300
       runas: Administrator
   AfterInstall:
-    - location: \Simplico-After
+    - location: \Simplico-After.bat
       timeout: 300
       runas: Administrator
 
